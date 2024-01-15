@@ -1,0 +1,8 @@
+#Question 01 B
+
+x = int(input())  
+y = int(input())
+print("Addition of two numbers : " , x+y)
+print("Subtraction of two numbers : " , x-y)
+print("Division of two numbers : " , x/y)
+print("Multiplication of two numbers : ",x*y)
