@@ -1,4 +1,10 @@
 # Neural-Networks-and-Deep-Learning
+Student info : Name - Sai Charan Kanchi
+               Studentid - 700757114
+               CRN - 23476
+
+Video Link : https://drive.google.com/file/d/1qt_kmbq1J4j9teLGlUDAHrD4rsAwf7Hk/view?usp=drive_link
+
 Assignment 01
 Question 01 A : I had taken input into st and the i removes every 2nd character in the string st and the reversed the string.
 Question 01 B : I had taken two numbers into x and y and the add, sub ,div,multiply the two numbers.
